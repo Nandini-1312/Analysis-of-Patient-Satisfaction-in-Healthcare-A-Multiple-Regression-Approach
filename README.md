@@ -77,13 +77,9 @@ The regression equation was derived as:
     
     Satisfaction Score=β0​ +β1 (Age)+β2 (LOS)+β3 (Num_nurse)+β4​ (Num_visits)
 
-The **R-squared value of 0.9781 means that 97.81% of the variability in satisfaction scores** is explained by the model.
 
 
 
-**Prediction for New Observations**
-
-  For a patient aged 50, staying for 3 days with 10 nurses and 5 visits per day, the estimated satisfaction score is 37.7064, with a 95% prediction interval of 34.1277 to 41.2850.
 
 **Hypothesis Test for Dropping Variables**
 
