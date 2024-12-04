@@ -100,7 +100,11 @@ The model was evaluated based on the following assumptions:
     The model explains 97.81% of the variation in satisfaction scores, with an R-squared value of 0.9781. 
     
     All predictors (age, length of stay, number of nurses, and staff visits) have p-values less than 0.05, indicating their significant contribution. While the assumptions of linearity, homoscedasticity, and normality generally hold, slight deviations suggest potential for model refinement.
+
     
+![image](https://github.com/user-attachments/assets/13113794-2da5-46dc-b7bf-ad5bfdbfad45)
+![image](https://github.com/user-attachments/assets/d348b9b6-9340-45f2-a5a0-ad533fae0385)
+
 **Prediction for New Observations**
 
     For a patient aged 50, staying for 3 days with 10 nurses and 5 visits per day, the estimated satisfaction score is 37.7064, with a 95% prediction interval of 34.1277 to 41.2850.
